@@ -1,3 +1,12 @@
+---
+title: Text Summary Gradio
+emoji: 🐨
+colorFrom: green
+colorTo: purple
+sdk: docker
+pinned: false
+---
+
 # TEXT SUMMARIZE USING GRADIO 
 
 
@@ -44,13 +53,5 @@ Below is a preview showcasing some features of the FastAPI:
         <img src="https://github.com/bambadij/NLP_text_summary_gradio/blob/main/bambasummary.png" alt="Middle" width="90%"/>
     </div>
 </div>
----
-title: Text Summary Gradio
-emoji: 🐨
-colorFrom: green
-colorTo: purple
-sdk: docker
-pinned: false
----
 
 Check out the configuration reference at https://huggingface.co/spaces/bambadij/gradio_text_summary
